@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Data Science(ML/AI) from Rajalakshmi Eduverse**
 
-- 👯 I’m looking to collaborate on **ML/AI projects and Internship**
+- 👯 I’m looking to collaborate on **ML/AI projects and DataSCience job**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Surander96](https://github.com/Surander96)
 
